@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m84tsk62u-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/m84tsk62u-python
